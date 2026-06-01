@@ -22,11 +22,24 @@ def jogar_jokenpo():
     # 3. Determinação do Vencedor
     if jogador == computador:
         print("Empate!")
+        jogar_novamente()
     elif (jogador == 'pedra' and computador == 'tesoura') or \
          (jogador == 'papel' and computador == 'pedra') or \
          (jogador == 'tesoura' and computador == 'papel'):
         print("Você Venceu!")
+        jogar_novamente()
     else:
         print("Você Perdeu!")
+        jogar_novamente()
+
+#Jogar novamente
+def jogar_novamente():
+    print("Suas opções: 1-Sim | 2-Nao")
+    opcao = int(input("Deseja jogar novamente? "))
+    if opcao == 1:
+        jogar_jokenpo()
+    else:
+        return
+    
 
 jogar_jokenpo()
