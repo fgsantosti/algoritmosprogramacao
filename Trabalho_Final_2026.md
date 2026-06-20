@@ -1,8 +1,10 @@
 # 🚗 Trabalho Final — Sistemas de Gestão
 
-**Disciplina:** Algoritmos e Lógica de Programação
-**Curso:** Análise e Desenvolvimento de Sistemas (ADS)
 **Instituto Federal de Educação, Ciência e Tecnologia do Piauí — IFPI / Campus Corrente**
+
+**Disciplina:** Algoritmos e Lógica de Programação
+
+**Curso:** Análise e Desenvolvimento de Sistemas (ADS)
 
 ---
 
