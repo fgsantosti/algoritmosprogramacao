@@ -47,7 +47,7 @@ Independentemente do tema escolhido, o sistema **deve** conter:
 8. **Uso de funções** para organizar o código (evitar todo o programa em um único bloco).
 
 ### ⭐ Diferenciais (pontuação extra)
-- Persistência de dados em arquivo (`.json`, `.csv` ou `.txt`).
+- Persistência de dados em arquivo (`.txt`).
 - Tratamento de exceções (`try / except`).
 - Interface organizada e amigável no terminal.
 - Código comentado e bem identado.
